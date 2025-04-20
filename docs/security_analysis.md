@@ -1,8 +1,5 @@
 # Side-Channel Attack Security Analysis
 
-**Date:** April 20, 2025  
-**Author:** Information Security Student  
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Attack Vectors](#attack-vectors)
